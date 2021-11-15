@@ -1,0 +1,4 @@
+main: me.mrliam2614.VanishEffect
+name: VanishEffect
+version: 1.0
+depend: [FacilitisAPI, SuperVanish]
